@@ -12,7 +12,6 @@ public class JavaNotesForInterview {
       i = j = 2; // However, if you write it as 
       // "i = 2, j = 2;" it is NOT correct.
       
-      // however, it works in the loop
       for(int i=0, j=0; i<5 && j<5; i++, j++){
           System.out.println(j + " " + j);
       }      
@@ -454,5 +453,3 @@ public class JavaNotesForInterview {
       
   }
 }
-
-
